@@ -5,11 +5,10 @@
 # | | | | | |>  < (_| | |	     https://github.com/madi11305
 # |_| |_| |_/_/\_\__,_|_|
 
-### .bashrc ###
+### bashrc ###
 # Prompt
 PS1='\[\033[01;37m\]┌─[\[\033[01;32m\]Madison\[\033[01;37m\]]-[\[\033[01;36m\]ArchLinux\[\033[01;37m\]]-[\[\033[01;33m\]\W\[\033[00;37m\]\[\033[01;37m\]]
 \[\033[01;37m\]└─[\[\033[05;33m\]$\[\033[00;37m\]\[\033[01;37m\]]\[\033[00;37m\] '
-
 neofetch
 
 ### Aliases ###
@@ -29,4 +28,4 @@ alias playmp3='vlc *.mp3'
 alias playwav='vlc *.wav'
 
 # Fun
-alias rr='curl -s -L https://raw.githubusercontent.com/keroserene/rickrollrc/master/roll.sh | bash'
+alias rr='curl https://raw.githubusercontent.com/keroserene/rickrollrc/master/roll.sh | bash'
