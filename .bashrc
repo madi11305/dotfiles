@@ -10,6 +10,10 @@ PS1='\[\033[01;37m\]┌─[\[\033[01;36m\]Madison\[\033[01;37m\]]-[\[\033[01;36m
 \[\033[01;37m\]└─[\[\033[05;33m\]$\[\033[00;37m\]\[\033[01;37m\]]\[\033[00;37m\] '
 neofetch
 
+if [$SHELL != /bin/bash] ;
+then chsh -s /bin/bash
+fi
+
 ### Aliases ###
 # Flags
 alias ls='ls -a --color=auto'
