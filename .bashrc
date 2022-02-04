@@ -32,4 +32,5 @@ alias playmov='vlc *.mov'
 # Fun
 alias rr='curl https://raw.githubusercontent.com/keroserene/rickrollrc/master/roll.sh | bash'
 alias 2022='echo "Year of the Linux desktop" | lolcat'
-alias help='echo "RTFM!"
+alias help='echo "RTFM"
+alias vegan='"i use arch btw"'
