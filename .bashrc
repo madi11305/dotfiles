@@ -30,6 +30,6 @@ alias playmp4='vlc *.mp4'
 alias playmov='vlc *.mov'
 
 # Fun
-alias rr='curl https://raw.githubusercontent.com/keroserene/rickrollrc/master/roll.sh | bash'
+alias sl='curl https://raw.githubusercontent.com/keroserene/rickrollrc/master/roll.sh | bash'
 alias 2022='echo "Year of the Linux desktop" | lolcat'
 alias help='echo "RTFM"
