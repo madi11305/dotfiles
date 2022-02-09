@@ -1,0 +1,14 @@
+### Prompt ###
+PS1='\[\033[01;37m\]┌─[\[\033[01;36m\]Madison\[\033[01;37m\]]-[\[\033[01;34m\]Mac\[\033[01;37m\]]-[\[\033[01;35m\]\w\[\033[00;37m\]\[\033[01;37m\]]
+\[\033[01;37m\]└─[\[\033[05;33m\]$\[\033[00;37m\]\[\033[01;37m\]]\[\033[00;37m\] '
+
+### Productive ###
+alias ls='ls -a'
+alias mkdir='mkdir -p'
+alias source='source ~/.bashrcmac'
+alias ..='cd ..'
+alias bashrc='vim ~/.bashrcmac'
+
+## HomeBrew ###
+eval "$(homebrew/bin/brew shellenv)"
+chmod -R go-w "$(brew --prefix)/share/zsh"
