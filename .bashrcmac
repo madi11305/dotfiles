@@ -20,6 +20,3 @@ alias bashrc='vim ~/.bashrcmac'
 ## HomeBrew ###
 eval "$(homebrew/bin/brew shellenv)"
 chmod -R go-w "$(brew --prefix)/share/zsh"
-# Update .bashrc #
-wget https://raw.githubusercontent.com/madi11305/dotfiles/main/.bashrcmac
-source .bashrcmac
