@@ -41,4 +41,3 @@ wget https://raw.githubusercontent.com/madi11305/dotfiles/master/.bashrc
 mv .bashrc OldBashrc
 mv .bashrc1 .bashrc
 source
-rm OldBashrc
