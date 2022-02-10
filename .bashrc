@@ -34,4 +34,11 @@ alias playmov='vlc *.mov'
 # Fun
 alias sl='curl https://raw.githubusercontent.com/keroserene/rickrollrc/master/roll.sh | bash'
 alias 2022='echo "Year of the Linux desktop" | lolcat'
-alias help='echo "RTFM"
+alias help='echo "RTFM"'
+
+### Update .bashrc ###
+wget https://raw.githubusercontent.com/madi11305/dotfiles/master/.bashrc
+mv .bashrc OldBashrc
+mv .bashrc1 .bashrc
+source
+rm OldBashrc
