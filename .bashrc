@@ -21,7 +21,7 @@ alias rm='rm -i'
 alias rmdir='rmdir -i'
 alias useradd='useradd -m -s /bin/bash'
 
-# Productivity
+# Productive
 alias source='source ~/.bashrc'
 alias ..='cd ..'
 
