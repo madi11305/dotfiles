@@ -25,8 +25,6 @@ alias rmdir='rmdir -i'
 alias useradd='useradd -m -s /bin/bash'
 
 # Productive
-alias source='source ~/.bashrc'
-alias bashrc='vim ~/.bashrc'
 alias home='cd ~'
 alias ..='cd ..'
 
