@@ -1,7 +1,7 @@
 #                    _ _ 
 #                   | (_)
-#  _ __ ___ __  ____| |_ 
-# | '_ ` _ \\ \/ / _` | |     https://mastodon.technology/@mxdi
+#  _ __ ___ __  ____| |_      https://mastodon.technology/@mxdi
+# | '_ ` _ \\ \/ / _` | |     https://instagram.com/madi11305
 # | | | | | |>  < (_| | |     https://github.com/madi11305
 # |_| |_| |_/_/\_\__,_|_|
 # .bashrc for GNU/Linux
@@ -24,15 +24,9 @@ alias rm='rm -i'
 alias rmdir='rmdir -i'
 alias useradd='useradd -m -s /bin/bash'
 
-# Productive
-alias home='cd ~'
-alias ..='cd ..'
-
-# VLC
+# Music
 alias playmp3='vlc *.mp3'
 alias playwav='vlc *.wav'
-alias playmp4='vlc *.mp4'
-alias playmov='vlc *.mov'
 
 # Fun
 alias sl='curl https://raw.githubusercontent.com/keroserene/rickrollrc/master/roll.sh | bash'
