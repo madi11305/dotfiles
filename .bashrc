@@ -6,7 +6,7 @@
 # |_| |_| |_/_/\_\__,_|_|
 # .bashrc for GNU/Linux
 
-# If not running interactively, dont do anything
+# If not running interactively, don't do anything
 [[ $- != *i* ]] && return
 
 ### Prompt ###
