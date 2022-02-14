@@ -6,6 +6,8 @@
 # |_| |_| |_/_/\_\__,_|_|
 # .bashrc for GNU/Linux
 
+# If not running interactively, dont do anything
+[[ $- != *i* ]] && return
 
 ### Prompt ###
 PS1='\[\033[01;37m\]┌─[\[\033[01;36m\]\u\[\033[01;37m\]]-[\[\033[01;34m\]\h\[\033[01;37m\]]-[\[\033[01;35m\]\w\[\033[00;37m\]\[\033[01;37m\]]
