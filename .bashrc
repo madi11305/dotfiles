@@ -6,12 +6,8 @@
 # |_| |_| |_/_/\_\__,_|_|
 # .bashrc for GNU/Linux
 
-# If not running interactively, don't do anything
-[[ $- != *i* ]] && return
-
 ### Prompt ###
-PS1='\[\033[01;37m\]┌─[\[\033[01;36m\]\u\[\033[01;37m\]]-[\[\033[01;34m\]\h\[\033[01;37m\]]-[\[\033[01;35m\]\w\[\033[00;37m\]\[\033[01;37m\]]
-\[\033[01;37m\]└─[\[\033[05;33m\]$\[\033[00;37m\]\[\033[01;37m\]]\[\033[00;37m\] '
+PS1='\[\033[01;37m\]┌─[\[\033[01;36m\]\u\[\033[01;37m\]]-[\[\033[01;34m\]\h\[\033[01;37m\]]-[\[\033[01;35m\]\w\[\033[00;37m\]\[\033[01;37m\]]\[\033[01;37m\]└─[\[\033[05;33m\]$\[\033[00;37m\]\[\033[01;37m\]]\[\033[00;37m\] '
 neofetch
 
 ### Aliases ###
@@ -32,3 +28,7 @@ alias playwav='vlc *.wav'
 alias sl='curl https://raw.githubusercontent.com/keroserene/rickrollrc/master/roll.sh | bash'
 alias 2022='echo "Year of the Linux desktop" | lolcat'
 alias help='echo "RTFM"'
+
+### Etc. ###
+# If not running interactively, don't do anything
+[[ $- != *i* ]] && return
