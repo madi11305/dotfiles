@@ -21,6 +21,9 @@ alias rm='rm -i'
 alias rmdir='rmdir -i'
 alias useradd='useradd -m -s /bin/bash'
 
+# Productive
+export PATH=/home/madison/Scripts:$PATH
+
 # Music
 alias playmp3='vlc *.mp3'
 alias playwav='vlc *.wav'
