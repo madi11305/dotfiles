@@ -34,7 +34,7 @@ alias help='echo "RTFM"'
 
 ### Etc. ###
 #Productive
-export PATH=/home/madison/Scripts:$PATH
+export PATH=~/Scripts:$PATH
 
 # If not running interactively, don't do anything
 [[ $- != *i* ]] && return
