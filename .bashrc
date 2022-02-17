@@ -22,7 +22,7 @@ alias rmdir='rmdir -i'
 alias useradd='useradd -m -s /bin/bash'
 
 # Productive
-alias pacman -Syu='pacman -Syu && bash ~/Scripts/updbashrc'
+alias pacman -Syu='pacman -Syu && updbashrc'
 # Music
 alias playmp3='vlc *.mp3'
 alias playwav='vlc *.wav'
