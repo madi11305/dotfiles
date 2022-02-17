@@ -21,9 +21,6 @@ alias rm='rm -i'
 alias rmdir='rmdir -i'
 alias useradd='useradd -m -s /bin/bash'
 
-# Productive
-export PATH=/home/madison/Scripts:$PATH
-
 # Music
 alias playmp3='vlc *.mp3'
 alias playwav='vlc *.wav'
@@ -34,5 +31,8 @@ alias 2022='echo "Year of the Linux desktop" | lolcat'
 alias help='echo "RTFM"'
 
 ### Etc. ###
+#Productive
+export PATH=/home/madison/Scripts:$PATH
+
 # If not running interactively, don't do anything
 [[ $- != *i* ]] && return
