@@ -19,7 +19,7 @@ alias cp='cp -i'
 alias mv='mv -i'
 alias rm='rm -i'
 alias rmdir='rmdir -i'
-alias useradd='useradd -m -s /bin/bash'
+alias useradd='useradd -m -s'
 
 # Productive
 alias pacman -Syu='pacman -Syu && updbashrc'
