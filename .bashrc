@@ -33,6 +33,7 @@ alias help='echo "RTFM"'
 ### Etc. ###
 #Productive
 export PATH=~/Scripts:$PATH
+export EDITOR='vim'
 
 # If not running interactively, don't do anything
 [[ $- != *i* ]] && return
