@@ -21,9 +21,6 @@ alias rm='rm -i'
 alias rmdir='rmdir -i'
 alias useradd='useradd -m -s'
 
-# Productive
-alias pacman -Syu='pacman -Syu && updbashrc'
-
 # Music
 alias playmp3='vlc *.mp3'
 alias playwav='vlc *.wav'
