@@ -19,7 +19,7 @@ alias cp='cp -i'
 alias mv='mv -i'
 alias rm='rm -i'
 alias rmdir='rmdir -i'
-alias useradd='useradd -m -s'
+alias useradd='useradd -m'
 
 # Music
 alias playmp3='vlc *.mp3'
