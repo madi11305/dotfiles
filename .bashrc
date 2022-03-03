@@ -30,6 +30,6 @@ alias 2022='echo "Year of the Linux desktop" | lolcat'
 alias help='echo "RTFM"'
 
 ### Etc. ###
-# Productive
+# Variables
 export PATH=~/Scripts:$PATH
 export EDITOR='vim'
