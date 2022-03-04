@@ -24,12 +24,11 @@ alias useradd='useradd -m'
 alias playmp3='vlc *.mp3'
 alias playwav='vlc *.wav'
 
-# Fun
+# Etc.
 alias rr='curl -s -L https://raw.githubusercontent.com/keroserene/rickrollrc/master/roll.sh | bash'
 alias 2022='echo "Year of the Linux desktop" | lolcat'
 alias help='echo "RTFM"'
 
-### Etc. ###
-# Variables
+### Export ###
 export PATH=~/Scripts:$PATH
 export EDITOR='vim'
