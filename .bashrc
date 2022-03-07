@@ -32,6 +32,7 @@ alias help='echo "RTFM"'
 ### Etc. ###
 # Export
 export PATH=~/scripts:$PATH
+export TERM='st'
 export EDITOR='vim'
 export VISUAL='vim'
 
