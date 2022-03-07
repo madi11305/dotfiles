@@ -35,5 +35,5 @@ export PATH=~/scripts:$PATH
 export EDITOR='vim'
 export VISUAL='vim'
 
-# If not running interactively, dont do anything
+# If not running interactively, don't do anything
 [[ $- != *i* ]] && return
