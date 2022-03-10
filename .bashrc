@@ -12,13 +12,13 @@ PS1='\[\033[01;37m\]┌─[\[\033[01;35m\]\u\[\033[01;37m\]]-[\[\033[01;36m\]\h\
 
 ### Aliases ###
 # Flags
-alias ls='ls -a --color=auto'
+alias ls='ls -a --color=auto '
 alias mkdir='mkdir -pv'
-alias cp='cp -i'
-alias mv='mv -i'
-alias rm='rm -i'
-alias rmdir='rmdir -i'
-alias useradd='useradd -m'
+alias cp='cp -i '
+alias mv='mv -i '
+alias rm='rm -i '
+alias rmdir='rmdir -i '
+alias useradd='useradd -m '
 
 # Music
 alias playmp3='vlc *.mp3'
