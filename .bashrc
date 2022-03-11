@@ -5,7 +5,6 @@
 # | | | | | |>  < (_| | |     https://mastodon.technology/@mxdi
 # |_| |_| |_/_/\_\__,_|_|
 # My ~/.bashrc file
-
 [[ $- != *i* ]] && return
 
 ### Prompt ###
