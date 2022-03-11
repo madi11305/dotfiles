@@ -1,10 +1,10 @@
 #                    _ _ 
 #                   | (_)
-#  _ __ ___ __  ____| |_      https://mastodon.technology/@mxdi
+#  _ __ ___ __  ____| |_      https://github.com/madi11305
 # | '_ ` _ \\ \/ / _` | |     https://instagram.com/mxdison.san
-# | | | | | |>  < (_| | |     https://github.com/madi11305
+# | | | | | |>  < (_| | |     https://mastodon.technology/@mxdi
 # |_| |_| |_/_/\_\__,_|_|
-# .bashrc for GNU/Linux
+# My ~/.bashrc file
 
 [[ $- != *i* ]] && return
 
@@ -16,6 +16,7 @@ PS1='\[\033[01;37m\]┌─[\[\033[01;35m\]\u\[\033[01;37m\]]-[\[\033[01;36m\]\h\
 # Flags
 alias ls='ls -a --color=auto'
 alias mkdir='mkdir -pv'
+alias rm='rm -rf'
 alias uderadd='useradd -m'
 
 # Misc.
