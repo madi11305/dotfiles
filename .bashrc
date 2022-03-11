@@ -3,7 +3,7 @@
 #  _ __ ___ __  ____| |_      https://github.com/madi11305
 # | '_ ` _ \\ \/ / _` | |     https://instagram.com/mxdison.san
 # | | | | | |>  < (_| | |     https://mastodon.technology/@mxdi
-# |_| |_| |_/_/\_\__,_|_|
+# |_| |_| |_/_/\_\____|_|
 # My ~/.bashrc file
 [[ $- != *i* ]] && return
 
