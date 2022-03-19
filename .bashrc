@@ -18,7 +18,7 @@ alias mkdir='mkdir -pv'
 alias rm='rm -rf'
 alias uderadd='useradd -m'
 alias rm='rm -rf'
-alias makepkg='makepkg -si'
+alias makepkg='makepkg -sci'
 
 # Misc.
 alias playmp3='vlc *.mp3'
