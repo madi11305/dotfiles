@@ -8,21 +8,20 @@
 [[ $- != *i* ]] && return
 
 ### Prompt ###
-PS1='\[\033[01;37m\]┌─[\[\033[01;35m\]\u\[\033[01;37m\]]-[\[\033[01;36m\]\h\[\033[01;37m\]]-[\[\033[01;34m\]\w\[\033[01;37m\]]
-└─[\[\033[05;34m\] \[\033[00;37m\]\[\033[01;37m\]] '
+PS1='\[\033[01;37m\]┌─[\[\033[01;35m\]\u\[\033[01;37m\]]-[\[\033[01;34m\]\h\[\033[01;37m\]]-[\[\033[01;36m\]\w\[\033[01;37m\]]
+└─[\[\033[05;34m\] \[\033[00;37m\]\[\033[01;37m\]] '
 
 ### Aliases ###
 # Flags
 alias ls='ls -a --color=auto'
 alias mkdir='mkdir -pv'
 alias rm='rm -rf'
-alias uderadd='useradd -m'
-alias rm='rm -rf'
-alias makepkg='makepkg -sci'
+alias useradd='useradd -m'
+alias makepkg='makepkg -si'
 
 # Misc.
-alias playmp3='vlc *.mp3'
-alias orphaned='sudo pacman -Rs $(pacman -Qtdq)'
+alias play='vlc *.webm'
+alias rmorphaned='sudo pacman -Rs $(pacman -Qtdq)'
 alias 2022='echo "Year of the linux desktop" | lolcat'
 alias help='echo "RTFM"'
 
