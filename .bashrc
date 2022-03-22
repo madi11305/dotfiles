@@ -20,7 +20,7 @@ alias useradd='useradd -m'
 alias makepkg='makepkg -si'
 
 # Misc.
-alias play='vlc *.webm'
+alias play='vlc ~/Music/*.webm'
 alias rmorphaned='sudo pacman -Rs $(pacman -Qtdq)'
 alias 2022='echo "Year of the linux desktop" | lolcat'
 alias help='echo "RTFM"'
