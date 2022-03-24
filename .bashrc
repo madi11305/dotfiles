@@ -1,8 +1,8 @@
 #                    _ _ 
 #                   | (_)
-#  _ __ ___ __  ____| |_      https://github.com/madi11305
-# | '_ ` _ \\ \/ / _` | |     https://instagram.com/mxdison.san
-# | | | | | |>  < (_| | |     https://mastodon.technology/@mxdi
+#  _ __ ___ __  ____| |_ 
+# | '_ ` _ \\ \/ / _` | |     https://github.com/madi11305
+# | | | | | |>  < (_| | |     https://instagram.com/mxdison.san
 # |_| |_| |_/_/\_\____|_|
 # My ~/.bashrc file
 [[ $- != *i* ]] && return
