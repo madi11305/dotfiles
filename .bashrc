@@ -13,7 +13,7 @@ PS1='\[\033[01;37m\]┌─[\[\033[01;35m\]\u\[\033[01;37m\]]-[\[\033[01;34m\]\h\
 
 ### Aliases ###
 # Flags
-alias ls='ls -a --color=auto'
+alias ls='ls -A --color=auto'
 alias mkdir='mkdir -pv'
 alias rm='rm -rf'
 alias useradd='useradd -m'
@@ -23,10 +23,4 @@ alias makepkg='makepkg -si'
 alias play='vlc ~/Music/*.webm'
 alias rmorphaned='sudo pacman -Rs $(pacman -Qtdq)'
 alias 2022='echo "Year of the linux desktop" | lolcat'
-alias help='echo "RTFM"'
-
-### Etc. ###
-# Export
-export PATH=~/scripts:$PATH
-export EDITOR='vim'
-export VISUAL='vim'
+alias help='echo "RTFM"
