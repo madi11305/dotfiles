@@ -4,7 +4,7 @@
 # | '_ ` _ \\ \/ / _` | |     https://github.com/madi11305
 # | | | | | |>  < (_| | |     https://instagram.com/mxdison.san
 # |_| |_| |_/_/\_\____|_|
-# My ~/.bashrc file
+# My ~/.bashrc
 [[ $- != *i* ]] && return
 
 ### Prompt ###
