@@ -2,7 +2,7 @@
 #                   | (_)
 #  _ __ ___ __  ____| |_ 
 # | '_ ` _ \\ \/ / _` | |     https://github.com/madi11305
-# | | | | | |>  < (_| | |     https://instagram.com/mxdison.san
+# | | | | | |>  < (_| | |     https://instagram.com/mxdibara
 # |_| |_| |_/_/\_\____|_|
 # My ~/.bashrc
 [[ $- != *i* ]] && return
