@@ -5,7 +5,6 @@
 # | | | | | |>  < (_| | |     https://instagram.com/mxdibara
 # |_| |_| |_/_/\_\____|_|
 # My ~/.bashrc
-[[ $- != *i* ]] && return
 
 ### Prompt ###
 PS1='\[\033[01;37m\]┌─[\[\033[01;35m\]\u\[\033[01;37m\]]-[\[\033[01;34m\]\h\[\033[01;37m\]]-[\[\033[01;36m\]\w\[\033[01;37m\]]
@@ -23,3 +22,7 @@ alias makepkg='makepkg -si'
 alias rmorphaned='sudo pacman -Rns $(pacman -Qtdq)'
 alias 2022='echo "Year of the linux desktop" | lolcat'
 alias help='echo "RTFM"
+
+### Etc. ###
+[[ $- != *i* ]] && return
+export PATH=$PATH:~\scripts
