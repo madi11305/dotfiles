@@ -18,6 +18,7 @@ alias mkdir='mkdir -pv'
 alias rm='rm -rf'
 alias useradd='useradd -m'
 alias makepkg='makepkg -si'
+alias doas='doas --'
 
 # Misc.
 alias rmorphaned='sudo pacman -Rns $(pacman -Qtdq)'
