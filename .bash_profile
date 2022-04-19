@@ -8,5 +8,6 @@ fi
 # Export
 export EDITOR='vim'
 export TERM='konsole'
+#export TERM='rxvt-unicode'
 export BROWSER='firefox'
 export PATH='$PATH:$HOME/scripts'
