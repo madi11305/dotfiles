@@ -16,11 +16,10 @@ PS1='\[\033[01;37m\]┌─[\[\033[01;35m\]\u\[\033[01;37m\]]-[\[\033[01;34m\]\h\
 alias ls='ls -A --color=auto'
 alias mkdir='mkdir -pv'
 alias rm='rm -rf'
-alias useradd='useradd -m'
 alias makepkg='makepkg -si'
 alias doas='doas --'
 
 # Misc.
-alias rmorphaned='sudo pacman -Rns $(pacman -Qtdq)'
-alias 2022='echo "Year of the linux desktop" | lolcat'
-alias help='echo "RTFM"
+alias rmorphaned='doas pacman -Rns $(pacman -Qtdq)'
+alias 2022='figlet Year of the linux desktop | lolcat'
+alias help='echo "RTFM"'
