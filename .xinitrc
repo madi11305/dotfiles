@@ -1,4 +1,4 @@
-## KDE Plasma
+## KDE Plasma (Desktop)
 export DESKTOP_SESSION=plasma
 exec startplasma-x11
 
