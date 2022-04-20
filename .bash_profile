@@ -8,7 +8,7 @@ fi
 # Export
 export EDITOR='vim'
 export VISUAL='vi'
-export TERMINAL='konsole'
-#export TERMINAL='rxvt-unicode'
+export TERM='konsole'
+#export TERM='rxvt-unicode'
 export BROWSER='firefox'
 export PATH='$PATH:$HOME/scripts'
