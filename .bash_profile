@@ -7,7 +7,7 @@ fi
 
 # Export
 export EDITOR='vim'
-export VISUAL='vi'
+export VISUAL='vim'
 export TERM='konsole'
 #export TERM='rxvt-unicode'
 export BROWSER='firefox'
