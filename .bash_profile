@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# startx on login
+# Neofetch and startx on login
 if [[ -z $DISPLAY ]] && [[ $(tty) = /dev/tty1 ]]; then
 neofetch; startx
 fi
