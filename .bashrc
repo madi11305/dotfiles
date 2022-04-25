@@ -22,4 +22,4 @@ alias doas='doas --'
 # Misc.
 alias rmorphaned='doas pacman -Rns $(pacman -Qtdq)'
 alias 2022='figlet Year of the linux desktop | lolcat'
-alias help='echo "RTFM"'
+alias help='echo "Install Gentoo" | lolcat; wget https://bouncer.gentoo.org/fetch/root/all/releases/amd64/autobuilds/20220424T170534Z/install-amd64-minimal-20220424T170534Z.iso'
