@@ -9,6 +9,6 @@ fi
 export EDITOR='vim'
 export VISUAL='vim'
 export TERM='konsole'
-#export TERM='rxvt-unicode'
+#export TERM='urxvt'
 export BROWSER='firefox'
 export PATH='$PATH:$HOME/scripts'
