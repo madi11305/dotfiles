@@ -1,7 +1,7 @@
 # Madi's dotfiles!!!
 A collection of my personal configuration files
-
-
+ 
+ 
 ## .bashrc
 
 ### What is it?
@@ -16,7 +16,7 @@ If you plan on using my .bashrc without modification, I reccomend you install th
 - wget
 - nerd-fonts-complete **(AUR)**
 
-
+ 
 
 ## .bash_profile
 
@@ -35,7 +35,7 @@ If you plan on using my .bash_profile without modification, I reccomend you inst
 - firefox
 - Make a **scripts** directory in your home directory **ex. /home/madi/scripts** (although it's recomended that you just remove/comment the line if you have no use for a scripts directory)
 
-
+ 
 
 ## .xinitrc
 
@@ -57,7 +57,7 @@ If you want my DWM setup:
 - Install picom.git **(AUR)**
 - Uncomment everything after "**### Dynamic Window Manager [DWM] ###**"
 
-
+ 
 
 ## .config
 
