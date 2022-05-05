@@ -48,7 +48,7 @@ If you plan on using my .bash_profile without modification, I reccomend you inst
 
 If you want my KDE Plasma setup:
 - plasma package from the standard Arch repositories
-- Uncomment the two lines under "### KDE Plasma ###** only
+- Uncomment the two lines under **### KDE Plasma ###** only
 
 If you want my DWM setup:
 - Clone my [dwm](https://github.com/madi11305/dwm) repository
