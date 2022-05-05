@@ -48,7 +48,7 @@ If you plan on using my .bash_profile without modification, I reccomend you inst
 
 If you want my KDE Plasma setup:
 - plasma package from the standard Arch repositories
-- Uncomment the two lines under "**### KDE Plasma ###**" only
+- Uncomment the two lines under "### KDE Plasma ###** only
 
 If you want my DWM setup:
 - Clone my dwm repository (https://github.com/madi11305/dwm)
@@ -56,9 +56,9 @@ If you want my DWM setup:
 - Run `make install` in both directories
 - Install feh and xorg-xrandr from standard Arch repositories
 - Install picom.git **(AUR)**
-- Uncomment everything after "**### Dynamic Window Manager [DWM] ###**"
+- Uncomment everything after **### Dynamic Window Manager [DWM] ###**
 
- 
+⠀
 
 ## .config
 
