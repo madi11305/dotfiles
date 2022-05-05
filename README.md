@@ -52,8 +52,8 @@ If you want my KDE Plasma setup:
 
 If you want my DWM setup:
 - Clone my [dwm](https://github.com/madi11305/dwm) repository
-- Clone my slstatus repository (https://github.com/madi11305/slstatus)
-- Run `make install` in both directories
+- Clone my [slstatus](https://github.com/madi11305/slstatus) repository
+- Run `make install` in **dwm** and **slstatus** directories
 - Install feh and xorg-xrandr from standard Arch repositories
 - Install picom.git **(AUR)**
 - Uncomment everything after **### Dynamic Window Manager [DWM] ###**
