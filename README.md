@@ -6,7 +6,7 @@ A collection of my personal configuration files
 ## .bashrc
 
 ### What is it?
-.bashrc or "Bourne-Again SHell Run Control" runs specified comands everytime you open a bash shell prompt (in layman's terms, open a terminal with bash as your defaut shell)
+.bashrc or "**B**ourne-**A**gain **SH**ell Run Control" runs specified comands everytime you open a bash shell prompt (in layman's terms, open a terminal with bash as your defaut shell)
 It's commonly used for defining things such as aliases, variables, and setting the prompt just to name a few.
 
 ### Dependencies
