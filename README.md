@@ -32,7 +32,7 @@ If you plan on using my .bash_profile without modification, I reccomend you inst
 - xorg (xorg-server, xorg-xinit)
 - vim
 - konsole
-- urxvt (only neccesary if you uncomment line mentioning it)
+- urxvt (only neccesary if you uncomment line calling for it)
 - firefox
 - Make a **scripts** directory in your home directory ex. **/home/madi/scripts** (although it's recomended that you just remove/comment the line if you have no use for a scripts directory)
 
