@@ -51,7 +51,7 @@ If you want my KDE Plasma setup:
 - Uncomment the two lines under "### KDE Plasma ###** only
 
 If you want my DWM setup:
-- Clone my dwm repository (https://github.com/madi11305/dwm)
+- Clone my [dwm](https://github.com/madi11305/dwm) repository
 - Clone my slstatus repository (https://github.com/madi11305/slstatus)
 - Run `make install` in both directories
 - Install feh and xorg-xrandr from standard Arch repositories
