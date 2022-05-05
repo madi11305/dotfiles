@@ -46,7 +46,7 @@ If you plan on using my .bash_profile without modification, I reccomend you inst
 ### Dependencies
 **EDIT BEFORE USING STARTX**
 
-If you want my KDE Plasma setup:
+If you want to use KDE Plasma:
 - plasma package from the standard Arch repositories
 - Uncomment the two lines under **### KDE Plasma ###** only
 
