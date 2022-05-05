@@ -24,7 +24,7 @@ If you plan on using my .bashrc without modification, I reccomend you install th
 ### What is it?
 .bash_profile or sometimes .profile, is a set of commands that execute whenever you log into a bash shell (in layman's terms, logging into your system with bash as your default shell)
 Unkike the .bashrc, these commands do not run whenever you launch a new terminal, so aliases and the PS1 variable (as well as some other things) will still need to be set manually or in the .bashrc.
-On the other hand, variables (assigned with "export") can be assigned here.
+On the other hand, variables (assigned with "export") are typically assigned here.
 
 ### Dependencies
 If you plan on using my .bash_profile without modification, I reccomend you install the following software:
