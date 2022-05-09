@@ -44,10 +44,10 @@ If you plan on using my .bash_profile without modification, I reccomend you inst
 .xinitrc is a set of commands that are executed when you run the commands **startx** or **xinit**. This is used to loginto a desktop environment/window manager and start extra programs with it.
 
 ### Dependencies
-**EDIT BEFORE USING STARTX**
+**EDIT BEFORE ATTEMPTED USE**
 
 If you want to use KDE Plasma:
-- plasma package from the standard Arch repositories
+- **plasma** package from the standard Arch repositories
 - Uncomment the two lines under **### KDE Plasma ###** only
 
 If you want my DWM setup:
