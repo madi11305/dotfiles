@@ -21,4 +21,4 @@ alias doas='doas --'
 
 # Misc.
 alias rmorphaned='doas pacman -Rns $(pacman -Qtdq)'
-alias 2022='figlet Year of the linux desktop | lolcat'
+alias 2022='lolcat $(figlet Year of the Linux Desktop'
