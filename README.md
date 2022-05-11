@@ -31,8 +31,7 @@ If you plan on using my .bash_profile without modification, I reccomend you inst
 - neofetch
 - xorg (xorg-server, xorg-xinit)
 - vim
-- konsole
-- urxvt (only neccesary if you uncomment line calling for it)
+- urxvt
 - firefox
 - Make a **scripts** directory in your home directory ex. **/home/madi/scripts** (although it's recomended that you just remove/comment the line if you have no use for a scripts directory)
 
@@ -44,19 +43,11 @@ If you plan on using my .bash_profile without modification, I reccomend you inst
 .xinitrc is a set of commands that are executed when you run the commands **startx** or **xinit**. This is used to loginto a desktop environment/window manager and start extra programs with it.
 
 ### Dependencies
-**EDIT BEFORE ATTEMPTED USE**
-
-If you want to use KDE Plasma:
-- **plasma** package from the standard Arch repositories
-- Uncomment the two lines under **### KDE Plasma ###** only
-
-If you want my DWM setup:
 - Clone my [dwm](https://github.com/madi11305/dwm) repository
 - Clone my [slstatus](https://github.com/madi11305/slstatus) repository
 - Run `make install` in **dwm** and **slstatus** directories
 - Install feh and xorg-xrandr from standard Arch repositories
 - Install picom.git **(AUR)**
-- Uncomment everything after **### Dynamic Window Manager [DWM] ###**
 
 ⠀
 
