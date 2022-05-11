@@ -6,7 +6,7 @@ A collection of my personal configuration files
 ## Get these for yourself
 ### If you want everything here:
 - In your home directory, enter the command `git clone https://github.com/madi11305/dotfiles` (install git if you don't have it already)
-- Remember to move all files out of newly created **dotfiles** directory and into your home directory (remove duplicates if needed)
+- Remember to move all files out of newly created **dotfiles** directory and into your home directory (remove duplicates if needed) and delete the **dotfiles** directly after
 
 ### If you want an individual file
 - In your home directory, enter the command `wget https://github.com/madi11305/dotfiles/blob/master/[desired file]` (install wget if you don't have it already)
