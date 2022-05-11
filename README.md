@@ -62,7 +62,7 @@ If you plan on using my .bash_profile without modification, I recommend you inst
 .xinitrc is a set of commands that are executed when you run the commands **startx** or **xinit**. This is used to log into a desktop environment/window manager and start extra programs with it.
 
 ### Dependencies
-- DWM (see my [DWM](https://github.com/madi11305) and [slstatus](https://github.com/madi11305/slstatus) repositories)
+- DWM and slstatus (see my [DWM](https://github.com/madi11305) and [slstatus](https://github.com/madi11305/slstatus) repositories)
 - Install feh and xorg-xrandr from standard Arch repositories
 - Install picom.git **(AUR)**
 
@@ -75,4 +75,4 @@ A directory of configuration files some programs look to.
 
 ### Software currently included:
 - Neofetch
-- picom
+- picom.git **(AUR)**
