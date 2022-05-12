@@ -1,8 +1,8 @@
 #                    _ _ 
-#                   | (_)
-#  _ __ ___ __  ____| |_ 
-# | '_ ` _ \\ \/ / _` | |     https://github.com/madi11305
-# | | | | | |>  < (_| | |     https://instagram.com/mxdibara
+#                   | (_)     GitHub: https://github.com/madi11305
+#  _ __ ___ __  ____| |_      Instagram: https://instagram.com/mxdibara
+# | '_ ` _ \\ \/ / _` | |     Email: madi11305@protonmail.com
+# | | | | | |>  < (_| | |
 # |_| |_| |_/_/\_\____|_|
 # My ~/.bashrc
 [[ $- != *i* ]] && return
@@ -21,4 +21,4 @@ alias doas='doas --'
 
 # Misc.
 alias rmorphaned='doas pacman -Rns $(pacman -Qtdq)'
-alias 2022='lolcat $(figlet Year of the Linux Desktop'
+alias 2022='lolcat $(figlet Year of the Linux Desktop)'
