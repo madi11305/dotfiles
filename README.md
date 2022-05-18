@@ -15,9 +15,9 @@ git clone https://github.com/madi11305/dotfiles
 ### If you want an individual file
 - In your home directory, enter the following command:
 ```
-wget https://github.com/madi11305/dotfiles/blob/master/[desired file]
+curl https://github.com/madi11305/dotfiles/blob/master/[desired file] --output [name of desired file]
 ```
-- Install **wget** if you don't have it already
+- Install **curl** if you don't have it already
 - Remove/rename any files that go by the same name already in your home directory before grabbing
 
 ⠀
