@@ -64,7 +64,7 @@ If you plan on using my .bash_profile without modification, I recommend you inst
 ### Dependencies
 - DWM and slstatus (see my [DWM](https://github.com/madi11305) and [slstatus](https://github.com/madi11305/slstatus) repositories)
 - Install feh and xorg-xrandr from standard Arch repositories
-- Install picom.git **(AUR)**
+- Install picom
 
 ⠀
 
@@ -75,4 +75,4 @@ A directory of configuration files some programs look to.
 
 ### Software currently included:
 - Neofetch
-- picom.git **(AUR)**
+- picom
