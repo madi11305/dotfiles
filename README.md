@@ -5,7 +5,7 @@ A collection of my personal configuration files
 
 ## Get these for yourself
 ### If you want everything here:
-- In your home directory, enter the following command:
+- In your home directory, execute the following command:
 ```
 git clone https://github.com/madi11305/dotfiles
 ```
@@ -15,7 +15,7 @@ git clone https://github.com/madi11305/dotfiles
 ### If you want an individual file
 - In your home directory, enter the following command:
 ```
-curl https://github.com/madi11305/dotfiles/blob/master/[desired file]
+curl https://raw.githubusercontent.com/madi11305/dotfiles/master/[file]
 ```
 - Install **curl** if you don't have it already
 - Remove/rename any files that go by the same name already in your home directory before grabbing
