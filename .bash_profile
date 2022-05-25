@@ -13,8 +13,8 @@ sleep 2; startx
 fi
 
 # Export
-export EDITOR='vim'
-export VISUAL='vim'
+export EDITOR='nano'
+export VISUAL='nano'
 export TERM='urxvt'
 export BROWSER='librewolf'
 export PATH='$PATH:$HOME/scripts'
