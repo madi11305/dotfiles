@@ -4,16 +4,16 @@
 # | '_ ` _ \\ \/ / _` | |     Email: <madi11305@protonmail.com>
 # | | | | | |>  < (_| | |
 # |_| |_| |_/_/\_\____|_|
-# My .xinitrc
+# .xinitrc
 
 # Transparent Windows
 picom --config ~/.config/picom/picom.conf &
 
+# Draw Wallpaper
+~/.fehbg &
+
 # slstatus
 slstatus &
-
-# Draw backrgound
-~/.fehbg &
 
 # Dynamic Window Manager [DWM]
 exec dwm
