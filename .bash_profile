@@ -4,7 +4,7 @@
 # | '_ ` _ \\ \/ / _` | |     Email: <madi11305@protonmail.com>
 # | | | | | |>  < (_| | |
 # |_| |_| |_/_/\_\____|_|
-# My .bash_profile
+# .bash_profile
 
 # Neofetch and startx on login
 if [[ -z $DISPLAY ]] && [[ $(tty) = /dev/tty1 ]]; then
