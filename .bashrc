@@ -4,7 +4,7 @@
 # | '_ ` _ \\ \/ / _` | |     Email: <madi11305@protonmail.com>
 # | | | | | |>  < (_| | |
 # |_| |_| |_/_/\_\____|_|
-# My .bashrc
+# .bashrc
 [[ $- != *i* ]] && return
 
 ### Prompt ###
