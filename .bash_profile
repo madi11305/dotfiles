@@ -15,6 +15,6 @@ fi
 # Export
 export EDITOR='nano'
 export VISUAL='nano'
-export TERM='urxvt'
+export TERM='st'
 export BROWSER='librewolf'
 export PATH='$PATH:$HOME/scripts'
