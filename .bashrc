@@ -18,6 +18,7 @@ alias mkdir='mkdir -pv'
 alias rm='rm -rf'
 alias makepkg='makepkg -si'
 alias doas='doas --'
+alias mc='micro'
 
 # Misc.
 alias rmorphaned='doas pacman -Rns $(pacman -Qtdq)'
