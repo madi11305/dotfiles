@@ -13,8 +13,8 @@ sleep 2; startx
 fi
 
 # Export
-export EDITOR='nano'
-export VISUAL='nano'
+export EDITOR='micro'
+export VISUAL='micro'
 export TERM='st'
 export BROWSER='librewolf'
 export PATH='$PATH:$HOME/scripts'
