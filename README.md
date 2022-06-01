@@ -49,7 +49,7 @@ On the other hand, variables (assigned with "export") are typically assigned her
 If you plan on using my .bash_profile without modification, I recommend you install the following software:
 - neofetch
 - xorg (xorg-server, xorg-xinit)
-- vim
+- micro
 - st
 - librewolf **(AUR)**
 - Make a **scripts** directory in your home directory ex. **/home/madi/scripts** (although it's recomended that you just remove/comment the line if you have no use for a scripts directory)
