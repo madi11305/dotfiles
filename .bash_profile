@@ -15,6 +15,6 @@ fi
 # Export
 export EDITOR='micro'
 export VISUAL='micro'
-export TERM='st'
+export TERM='urxvt'
 export BROWSER='librewolf'
 export PATH='$PATH:$HOME/scripts'
