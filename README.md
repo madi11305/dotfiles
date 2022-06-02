@@ -68,6 +68,16 @@ If you plan on using my .bash_profile without modification, I recommend you inst
 
 ⠀
 
+## .Xresources
+
+### What is it?
+.Xresources is a general configuration file for programs that call for it (for example I'm using it to configure urxvt)
+
+### Software currently included:
+- urxvt
+
+⠀
+
 ## .config
 
 ### What is it?
