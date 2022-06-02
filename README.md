@@ -50,7 +50,7 @@ If you plan on using my .bash_profile without modification, I recommend you inst
 - neofetch
 - xorg (xorg-server, xorg-xinit)
 - micro
-- st
+- urxvt
 - librewolf **(AUR)**
 - Make a **scripts** directory in your home directory ex. **/home/madi/scripts** (although it's recomended that you just remove/comment the line if you have no use for a scripts directory)
 
