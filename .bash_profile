@@ -8,8 +8,7 @@
 
 # Neofetch and startx on login
 if [[ -z $DISPLAY ]] && [[ $(tty) = /dev/tty1 ]]; then
-neofetch
-sleep 2; startx
+startx
 fi
 
 # Export
