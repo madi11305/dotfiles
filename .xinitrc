@@ -10,7 +10,7 @@
 picom --config ~/.config/picom/picom.conf &
 
 # Draw Wallpaper
-~/.fehbg &
+~/.fehbg
 
 # slstatus
 slstatus &

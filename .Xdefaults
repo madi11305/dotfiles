@@ -1,0 +1,25 @@
+URxvt*foreground: white
+URxvt*background: [90]black
+URxvt*scrollBar: false
+
+"URxvt.font: 9x13
+
+URxvt.font:xft:hack:pixelsize=13
+URxvt.boldfont:xft:hack-bold:pixelsize=13
+
+*color0: black
+*color1: #CD0000
+*color2: green3
+*color3: #C4A000
+*color4: blue2
+*color5: magenta3
+*color6: cyan3
+*color7: gray90
+*color8: gray50
+*color9: red
+*color10: green
+*color11: yellow
+*color12: #3465A4
+*color13: magenta
+*color14: cyan
+*color15: white

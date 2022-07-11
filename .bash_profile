@@ -7,13 +7,10 @@
 # .bash_profile
 
 # Neofetch and startx on login
-if [[ -z $DISPLAY ]] && [[ $(tty) = /dev/tty1 ]]; then
-startx
-fi
+[ -z $DISPLAY ] && [ $(tty) = /dev/tty1 ] && neofetch; startx
 
 # Export
 export EDITOR='micro'
 export VISUAL='micro'
 export TERM='urxvt'
-export BROWSER='librewolf'
-export PATH='$PATH:$HOME/scripts'
+export BROWSER='firefox'
