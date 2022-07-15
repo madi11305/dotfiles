@@ -19,4 +19,4 @@ alias rm='rm -rf'
 alias makepkg='makepkg -si'
 
 # Misc.
-alias rmorphans='sudo pacman -Rns $(pacman -Qtdq)'
+alias killorphans='sudo pacman -Rns $(pacman -Qtdq)'
