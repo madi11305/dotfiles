@@ -20,3 +20,7 @@ alias makepkg='makepkg -si'
 
 # Misc.
 alias killorphans='sudo pacman -Rns $(pacman -Qtdq)'
+
+
+### Export ###
+export PATH=$PATH:$HOME/scripts/exec
