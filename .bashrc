@@ -23,4 +23,7 @@ alias killorphans='sudo pacman -Rns $(pacman -Qtdq)'
 
 
 ### Export ###
+export EDITOR=micro
+export VISUAL=micro
+export BROWSER=firefox
 export PATH=$PATH:$HOME/scripts/exec
