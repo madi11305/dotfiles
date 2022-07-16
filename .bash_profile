@@ -10,7 +10,8 @@
 [ -z $DISPLAY ] && [ $(tty) = /dev/tty1 ] && neofetch; startx
 
 # Export
-export EDITOR='micro'
-export VISUAL='micro'
-export TERM='urxvt'
-export BROWSER='firefox'
+export EDITOR=micro
+export VISUAL=micro
+export TERM=urxvt
+export BROWSER=firefox
+export PATH=$PATH:$HOME/scripts/exec
