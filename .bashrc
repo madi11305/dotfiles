@@ -1,5 +1,5 @@
 #                    _ _ 
-#                   | (_)     Website: https://madi11305.github.io
+#                   | (_)     Website: https://mxdi.xyz
 #  _ __ ___ __  ____| |_      GitHub: https://github.com/madi11305
 # | '_ ` _ \\ \/ / _` | |     Email: <madi11305@protonmail.com>
 # | | | | | |>  < (_| | |
