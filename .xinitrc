@@ -1,6 +1,6 @@
 #                    _ _ 
-#                   | (_)     GitHub: https://github.com/madi11305
-#  _ __ ___ __  ____| |_      Instagram: https://instagram.com/mxdi.sh
+#                   | (_)     Website: https://madi11305.github.io
+#  _ __ ___ __  ____| |_      GitHub: https://github.com/madi11305
 # | '_ ` _ \\ \/ / _` | |     Email: <madi11305@protonmail.com>
 # | | | | | |>  < (_| | |
 # |_| |_| |_/_/\_\____|_|
