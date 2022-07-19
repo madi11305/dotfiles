@@ -1,6 +1,6 @@
 #                    _ _ 
 #                   | (_)     Website: https://mxdi.xyz
-#  _ __ ___ __  ____| |_      GitHub: https://github.com/madi11305
+#  _ __ ___ __  ____| |_      GitHub: https://github.com/mxdixyz
 # | '_ ` _ \\ \/ / _` | |     Email: <madi11305@protonmail.com>
 # | | | | | |>  < (_| | |
 # |_| |_| |_/_/\_\____|_|
