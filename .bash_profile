@@ -6,6 +6,9 @@
 # |_| |_| |_/_/\_\____|_|
 # .bash_profile
 
+# Disable bluetooth (massive vulnerability)
+rfkill block bluetooth
+
 # Neofetch and startx on login
 [ -z $DISPLAY ] && [ $(tty) = /dev/tty1 ] && neofetch; startx
 
