@@ -20,9 +20,6 @@ alias makepkg='makepkg -si'
 
 # Misc.
 alias killorphans='sudo pacman -Rns $(pacman -Qtdq)'
-alias fetchtoken='sudo cat /root/.token | xclip -selection clipboard'
-alias fetchssh='sudo cat /root/.ssh | xclip -selection clipboard'
-alias clearclip='echo "" | xclip -selection clipboard'
 alias 2022='figlet Year of the Linux Desktop! | lolcat'
 
 ### Export ###
