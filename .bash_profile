@@ -1,12 +1,12 @@
 #                    _ _ 
 #                   | (_)     Website: https://mxdi.xyz
-#  _ __ ___ __  ____| |_      GitHub: https://github.com/mxdi.xyz
+#  _ __ ___ __  ____| |_      GitHub: https://github.com/madi11305
 # | '_ ` _ \\ \/ / _` | |     Email: <madi11305@protonmail.com>
 # | | | | | |>  < (_| | |
 # |_| |_| |_/_/\_\____|_|
 # .bash_profile
 
-# Disable bluetooth (massive vulnerability)
+# Disable bluetooth
 rfkill block bluetooth
 
 # Neofetch and startx on login

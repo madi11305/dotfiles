@@ -1,6 +1,6 @@
 #                    _ _ 
 #                   | (_)     Website: https://mxdi.xyz
-#  _ __ ___ __  ____| |_      GitHub: https://github.com/mxdixyz
+#  _ __ ___ __  ____| |_      GitHub: https://github.com/madi11305
 # | '_ ` _ \\ \/ / _` | |     Email: <madi11305@protonmail.com>
 # | | | | | |>  < (_| | |
 # |_| |_| |_/_/\_\____|_|
@@ -20,7 +20,10 @@ alias makepkg='makepkg -si'
 
 # Misc.
 alias killorphans='sudo pacman -Rns $(pacman -Qtdq)'
-
+alias fetchtoken='sudo cat /root/.token | xclip -selection clipboard'
+alias fetchssh='sudo cat /root/.ssh | xclip -selection clipboard'
+alias clearclip='echo "" | xclip -selection clipboard'
+alias 2022='figlet Year of the Linux Desktop! | lolcat'
 
 ### Export ###
 export EDITOR=micro
