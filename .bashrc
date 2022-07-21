@@ -19,10 +19,10 @@ alias rm='rm -rf'
 alias makepkg='makepkg -si'
 
 # Misc.
-alias killorphans='sudo pacman -Rns $(pacman -Qtdq)'
+alias killorphans='doas pacman -Rns $(pacman -Qtdq)'
 alias 2022='figlet Year of the Linux Desktop! | lolcat'
 
-### Export ###
+### Environment ###
 export EDITOR=micro
 export VISUAL=micro
 export BROWSER=librewolf

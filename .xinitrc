@@ -1,6 +1,6 @@
 #                    _ _ 
 #                   | (_)     Website: https://mxdi.xyz
-#  _ __ ___ __  ____| |_      GitHub: https://github.com/mxdixyz
+#  _ __ ___ __  ____| |_      GitHub: https://github.com/madi11305
 # | '_ ` _ \\ \/ / _` | |     Email: <madi11305@protonmail.com>
 # | | | | | |>  < (_| | |
 # |_| |_| |_/_/\_\____|_|
@@ -10,7 +10,7 @@
 picom --config ~/.config/picom/picom.conf &
 
 # Draw Wallpaper
-~/.fehbg
+$HOME/.config/fehbg &
 
 # slstatus
 slstatus &

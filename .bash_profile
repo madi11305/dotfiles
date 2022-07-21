@@ -12,7 +12,7 @@ rfkill block bluetooth
 # Neofetch and startx on login
 [ -z $DISPLAY ] && [ $(tty) = /dev/tty1 ] && neofetch; startx
 
-# Export
+# Environment
 export EDITOR=micro
 export VISUAL=micro
 export TERM=rxvt-256color
