@@ -12,8 +12,8 @@ picom --config ~/.config/picom/picom.conf &
 # Draw Wallpaper
 ~/.fehbg &
 
-# slstatus
-slstatus &
+# statusbar
+shtatus &
 
 # Dynamic Window Manager [DWM]
 exec dwm
